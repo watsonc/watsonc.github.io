@@ -12,12 +12,12 @@ I am on the job market in 2019-2020 and am available for interviews at the 2020 
 
 Current working papers:
 
-[Price discrimination against inattentive mortgage borrowers](https://drive.google.com/file/d/1HObF-hrntZwgahSMcki8LUN0uVScWsUq/view) (JMP)
+* [Price discrimination against inattentive mortgage borrowers](https://drive.google.com/file/d/1HObF-hrntZwgahSMcki8LUN0uVScWsUq/view) (JMP)
 
-[Equilibrium externalities of consumer search for automobile insurance](https://drive.google.com/file/d/1TFNhag7SfWI1B8WmpnW1ADzaOWTKXUgu/view)
+* [Equilibrium externalities of consumer search for automobile insurance](https://drive.google.com/file/d/1TFNhag7SfWI1B8WmpnW1ADzaOWTKXUgu/view)
 
-[Emissions testing leakages in the used car market](https://drive.google.com/file/d/1dHl3UQGKhNwceG4HUh0ItYGfiNv9a7ZV/view)
+* [Emissions testing leakages in the used car market](https://drive.google.com/file/d/1dHl3UQGKhNwceG4HUh0ItYGfiNv9a7ZV/view)
 
 Work in progress:
 
-Negotiated prices in the US automobile industry
+* Negotiated prices in the US automobile industry
