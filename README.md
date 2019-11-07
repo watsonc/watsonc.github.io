@@ -4,12 +4,20 @@
 
 I am on the job market in 2019-2020 and am available for interviews at the 2020 ASSA meeting in San Diego and the NABE TEC2019 conference in Seattle.
 
+[watsonco@umich.edu](mailto:watsonco@umich.edu)
+
 <img src="watson_photo.jpg" width="240">
 
 [CV](https://drive.google.com/file/d/1abEz6YBhJnkg_zq7jBlGWZ4DaODgR44P/view)
+
+Current working papers:
 
 [Price discrimination against inattentive mortgage borrowers](https://drive.google.com/file/d/1HObF-hrntZwgahSMcki8LUN0uVScWsUq/view) (JMP)
 
 [Equilibrium externalities of consumer search for automobile insurance](https://drive.google.com/file/d/1TFNhag7SfWI1B8WmpnW1ADzaOWTKXUgu/view)
 
 [Emissions testing leakages in the used car market](https://drive.google.com/file/d/1dHl3UQGKhNwceG4HUh0ItYGfiNv9a7ZV/view)
+
+Work in progress:
+
+Negotiated prices in the US automobile industry
