@@ -4,7 +4,7 @@
 
 I am on the job market in 2019-2020 and am available for interviews at the 2020 ASSA meeting in San Diego and the NABE TEC2019 conference in Seattle.
 
-![photo](watson_photo.jpg)
+<img src="watson_photo.jpg" width="240">
 
 [CV](https://drive.google.com/file/d/1abEz6YBhJnkg_zq7jBlGWZ4DaODgR44P/view)
 
